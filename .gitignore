@@ -8,6 +8,7 @@ __pycache__/
 *.mp4
 *.HEIC
 *.srt
+images/
 
 # System
 .DS_Store
