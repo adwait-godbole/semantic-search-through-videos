@@ -1,0 +1,1 @@
+ffmpeg -i video.mp4 -vf "fps=1" -skip_frame nokey -vsync 0 -frame_pts true image%d.png

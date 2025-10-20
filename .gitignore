@@ -1,0 +1,17 @@
+# Environment
+env/
+__pycache__/
+*.pyc
+
+# Large binaries
+*.zip
+*.mp4
+*.HEIC
+*.srt
+
+# System
+.DS_Store
+
+# VSCode / IDE
+.vscode/
+.idea/
